@@ -133,6 +133,9 @@ if __name__ == "__main__":
 
 ## 引用
 
+If you use Webseer in your research, please cite it as follows:
+
+```
 @misc{webseer2025,
   author = {Big Data Mining Team},
   title = {webseer: not everything is worth crawling},
@@ -141,3 +144,4 @@ if __name__ == "__main__":
   journal = {GitHub repository},
   howpublished = {\url{https://github.com/AgBigdataLab/Webseer}},
 }
+```
