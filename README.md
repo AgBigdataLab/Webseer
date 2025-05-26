@@ -133,7 +133,7 @@ if __name__ == "__main__":
 
 ## 引用
 
-If you use Webseer in your research, please cite it as follows:
+如果您在研究中使用了 Webseer，请按以下方式引用：
 
 ```
 @misc{webseer2025,
